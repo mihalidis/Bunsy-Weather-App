@@ -2,6 +2,8 @@
 
 This is a simple and responsive weather application built with Next.js and TypeScript. The app allows users to search for the current weather conditions in any city worldwide. It utilizes modern web technologies to provide a smooth and efficient user experience.
 
+![](https://ibb.co/ZfwHLgc)
+
 **Live:**
 
 ## Table of contents
