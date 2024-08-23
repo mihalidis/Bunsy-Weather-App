@@ -47,6 +47,14 @@ This is a simple and responsive weather application built with Next.js and TypeS
 ## Project Setup
 
 ```sh
+git clone https://github.com/mihalidis/Bunsy-Weather-App.git
+```
+
+```sh
+cd weather-app
+```
+
+```sh
 npm install
 ```
 
